@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### 설치 프로그램
+### Installation Requirements
 **Npcap**: Windows packet capture program <br>
 **Scapy**: Python module <br>
 **Installation command**: `pip install scapy`
