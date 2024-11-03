@@ -34,7 +34,7 @@
 <br>
 
 ### Installation Requirements
-**Npcap**: Windows packet capture program <br>
+**NPCAP**: Windows packet capture program <br>
 **Scapy**: Python module <br>
 **Installation command**: `pip install scapy`
 
