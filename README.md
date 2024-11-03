@@ -16,8 +16,8 @@
 **Installation command**: `pip install scapy`
 
 ### Features
-**Real-Time Packet Capture**: Captures packets in real-time through the network interface.
-**Packet Information Display**: Displays captured packet details, including packet number, arrival time, source IP, destination IP, protocol, and packet length in a table format within the GUI.
-**Protocol Statistics**: Provides protocol-specific statistics for captured packets, showing the number of packets for each protocol.
-**Start and Stop Functionality**: Allows users to easily start and stop packet capture using buttons.
+**Real-Time Packet Capture**: Captures packets in real-time through the network interface. <br>
+**Packet Information Display**: Displays captured packet details, including packet number, arrival time, source IP, destination IP, protocol, and packet length in a table format within the GUI.<br>
+**Protocol Statistics**: Provides protocol-specific statistics for captured packets, showing the number of packets for each protocol.<br>
+**Start and Stop Functionality**: Allows users to easily start and stop packet capture using buttons.<br>
 **Design Elements**: Sets GUI background color, fonts, button styles, and more to provide a user-friendly interface.
