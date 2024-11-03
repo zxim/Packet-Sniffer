@@ -1,5 +1,6 @@
 # 🖥Packet Sniffer
-![Project Screenshot]([https://github.com/your-username/your-repo-name/blob/main/images/project-screenshot.png](https://github.com/zxim/Packet-Sniffer/blob/main/image.png))
+![Project Screenshot](https://github.com/zxim/Packet-Sniffer/blob/main/image.png)
+
 
 ## catch.py
 ⏺ Packet analysis based on a wired network using IPv4.
